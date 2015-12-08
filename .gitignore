@@ -1,5 +1,7 @@
+tests/
 *.pyc
 *~
 *.swp
 *.log
 *.conf
+run.bat
