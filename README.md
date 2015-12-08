@@ -15,7 +15,7 @@ This script requires:
 
 * [Python 2.7](http://www.python.org/download/releases/2.7/)
 * [Mutagen](https://code.google.com/p/mutagen/)
-* Balabolka (for text to speech) (http://www.cross-plus-a.com/balabolka.htm
+* [Balabolka](http://www.cross-plus-a.com/balabolka.htm) (for text to speech) 
 ** For german, requires download of microsoft voice "Microsoft Hedda Desktop"
 
 I upload my tracks using musicbee and then have setup a hotkey to run the following command:
